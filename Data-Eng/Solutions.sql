@@ -1,4 +1,4 @@
-
+-- SQL Server 2019
 
 -- 1ST 
 WITH ingredients AS (
